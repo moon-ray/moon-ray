@@ -1,3 +1,3 @@
-## Hi, I'm Son Ray.
+## bonjour
 
-I primarily code in GDScript.
+i dont speak french
