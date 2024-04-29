@@ -2,7 +2,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">What I use:</h3>
+<h3 align="left">stuff i use ig</h3>
 <p align="left">
     <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
         <img src="https://godotengine.org/assets/press/icon_color.svg" alt="Godot Engine" width="60" height="60"/>
